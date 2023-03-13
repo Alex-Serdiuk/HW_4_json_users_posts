@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW_4_json_users_posts</string>
+    <string name="tvListOfUsers">List Of Users</string>
+    <string name="tvListOfPosts">List Of Posts</string>
+    <string name="tvHelloMessage">Натисніть кнопку і отримайте інформацію про User-ів</string>
+    <string name="btnGetUsers">Next</string>
+</resources>
